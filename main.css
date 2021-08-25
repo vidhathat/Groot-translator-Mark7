@@ -1,0 +1,49 @@
+
+body{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 0;
+}
+.banner{    
+    background-color:#42f59e;
+    height: 100px;
+    padding-bottom: 10px;   
+}
+.body-sec{
+    display: flex;
+}
+.grootImg{
+    margin-right: 150px;
+    padding: 30px;
+}
+
+.trs-sec{
+    flex: 1 ;
+}
+
+#txt-input{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    height: 10vh;
+    width: 200%;
+    padding: 1rem;
+}
+
+.btn{
+    height: 40px ;
+    width: 150px;
+    background-color: #2dcf80;
+    margin: 20px;
+}
+
+.output{
+    border: 1px solid black;
+    height: 10vh;
+    width: 200%;
+    margin: 1rem;
+    margin: 0 auto;
+    padding: 1rem;
+    margin-bottom: 91px;
+}
